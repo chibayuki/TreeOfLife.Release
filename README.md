@@ -1,4 +1,4 @@
-# Tree of Life 发布
+# Tree of Life 发行
 基于现代分类学的生物演化树编辑程序。
 
 ![ScreenShot](ScreenShot.png)
